@@ -1,7 +1,8 @@
 import fitz  # import the bindings
 import glob
 
-
+#
+#
 class Convert:
     pdf_address = None  # save pdf files
     image_address = None  # save image files
